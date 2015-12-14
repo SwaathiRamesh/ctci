@@ -1,2 +1,2 @@
 # ctci
-Cracking the Coding interview 
+Cracking the Coding interview practice questions
