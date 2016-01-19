@@ -69,7 +69,7 @@ h1=NULL;
 h2=NULL;
 int carry;
 // h1-345
-insert(h1, 3);
+//insert(h1, 3);
 insert(h1, 4);
 insert(h1,5);
 // h2-127
